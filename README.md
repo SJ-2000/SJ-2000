@@ -11,7 +11,9 @@
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> @Suryajith-Sujith
   </a> &nbsp; 
 
-<p style="font-size: 40px"> <strong> 🚀 Languages and Tools: </string> </p>
+<p style="font-size: 40px"> <strong> 🚀 Languages and Tools: </strong> </p>
+
+
 <!---
 SJ-2000/SJ-2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
