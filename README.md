@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Google Cloud-red?style=for-the-badge&logo=googlecloud&logoColor=yellow" alt="Google Badge"/>
   </a>
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=SJ-2000&style=flat-square&color=blue" alt=""/>
 <p style="font-size: 40px";> <b> < 🙋‍♂️  About me / > </b> </p>
 
 - 👋 Hi, I’m Suryajith Sujith
@@ -21,9 +21,6 @@
 - 💞️ I’m looking to collaborate on Full Stack Development and Data Science/Machine Learning projects
 - 📫 How to reach me at my personal mail: suryajithsujith@gmail.com
 - 📫 How to reach me at my academic mail: BL.EN.U4EAC19071@bl.students.amrita.edu
-- 📫 How to reach me at my Linkedin Proifle
-  : <a href="https://www.linkedin.com/in/suryajith-sujith-186257186/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> @Suryajith-Sujith
   </a> &nbsp; 
 
 <p style="font-size: 40px"> <strong> 🚀 Languages and Tools: </strong> </p>
