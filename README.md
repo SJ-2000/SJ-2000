@@ -26,6 +26,7 @@
 - 👋 Hi, I’m Suryajith Sujith
 - 👀 I’m interested in Data Science, Web Development and anything related to tech stack!
 - 🌱 I’m currently learning Web Development from freecodecamp, something that excites me!
+- :books: I'm also learning Data Structures and Algorithms, something that is challenging.
 - 💞️ I’m looking to collaborate on Full Stack Development and Data Science/Machine Learning projects
 - 📫 How to reach me at my personal mail: suryajithsujith@gmail.com
 - 📫 How to reach me at my academic mail: BL.EN.U4EAC19071@bl.students.amrita.edu
