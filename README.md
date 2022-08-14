@@ -19,7 +19,7 @@
 </h1>
   </div>
   <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="600" height="300"/>
 </div>
 <p style="font-size: 40px";> <b> < 🙋‍♂️  About me / > </b> </p>
 
