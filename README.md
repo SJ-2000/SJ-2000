@@ -12,6 +12,9 @@
   </a> &nbsp; 
 
 <p style="font-size: 40px"> <strong> 🚀 Languages and Tools: </strong> </p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <!---
 SJ-2000/SJ-2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
