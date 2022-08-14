@@ -1,4 +1,7 @@
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
+</div>
+https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
 
 <p style="font-size: 40px";> <b> < 🙋‍♂️  About me / > </b> </p>
 
@@ -14,9 +17,7 @@
   </a> &nbsp; 
 
 <p style="font-size: 40px"> <strong> 🚀 Languages and Tools: </strong> </p>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
-</div>
+
 <!---
 SJ-2000/SJ-2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
