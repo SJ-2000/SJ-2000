@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://codepen.io/Straxxy_28">
-    <img src="https://img.shields.io/badge/Codepen-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Codepen Badge"/>
+    <img src="https://img.shields.io/badge/Codepen-white?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
