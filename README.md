@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Codepen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="Codepen Badge"/>
   </a>
   <a href="https://www.cloudskillsboost.google/public_profiles/86d1df13-24f8-4d24-87ca-b1fd53754b13">
-    <img src="https://img.shields.io/badge/Google Cloud-yellow?style=for-the-badge&logo=googlecloud&logoColor=green" alt="Google Badge"/>
+    <img src="https://img.shields.io/badge/Google Cloud-red?style=for-the-badge&logo=googlecloud&logoColor=yellow" alt="Google Badge"/>
   </a>
 </div>
 
