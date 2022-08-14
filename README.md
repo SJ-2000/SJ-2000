@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/dWesBcTLavkZuG35MI" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/webdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI">via GIPHY</a></p>
+
 
 <p style="font-size: 40px";> <b> < 🙋‍♂️  About me / > </b> </p>
 
@@ -14,7 +14,9 @@
   </a> &nbsp; 
 
 <p style="font-size: 40px"> <strong> 🚀 Languages and Tools: </strong> </p>
-<p><a href="https://giphy.com/stickers/coding-programmer-ngoding-jdPMeyv9rn0hZHh8n9">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
+</div>
 <!---
 SJ-2000/SJ-2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
