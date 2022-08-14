@@ -8,8 +8,8 @@
   <a href="https://codepen.io/Straxxy_28">
     <img src="https://img.shields.io/badge/Codepen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="Codepen Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.cloudskillsboost.google/public_profiles/86d1df13-24f8-4d24-87ca-b1fd53754b13">
+    <img src="https://img.shields.io/badge/Google Cloud-blue?style=for-the-badge&logo=googlecloud&logoColor=green" alt="Google Badge"/>
   </a>
 </div>
 
