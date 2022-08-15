@@ -21,7 +21,7 @@
   <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" height="300"/>
 </div>
-<p style="font-size: 40px";> <b> < 🙋‍♂️  About me / > </b> </p>
+<p style="font-size: 40px";> <b>  🙋‍♂️  About me  </b> </p>
 
 - 👋 Hi, I’m Suryajith Sujith
 - 👀 I’m interested in Data Science, Web Development and anything related to tech stack!
