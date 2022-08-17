@@ -55,7 +55,7 @@
  <a href="https://jupyter-notebook.readthedocs.io/en/stable/"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/></a>&nbsp;
  <a href="https://in.mathworks.com/help/matlab/"> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/></a>&nbsp;
  <a href="https://www.r-project.org/other-docs.html"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/></a>&nbsp;
-<a href="https://code.visualstudio.com/docs">  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/docs"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/></a>
 </div>
 
 ### :fire: My Stats :
