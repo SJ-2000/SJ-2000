@@ -29,33 +29,23 @@
 - :books: I'm also learning Data Structures and Algorithms, something that is challenging.
 - 💞️ I’m looking to collaborate on Full Stack Development and Data Science/Machine Learning projects
 - 📫 How to reach me at my personal mail: suryajithsujith@gmail.com
-- 📫 How to reach me at my academic mail: BL.EN.U4EAC19071@bl.students.amrita.edu
   </a> &nbsp; 
 
 <p style="font-size: 40px"> <strong> 🚀 Languages and Tools: </strong> </p>
 <div>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://documentation.js.org/"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
-  <a href="https://dev.mysql.com/doc/"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
-  </a>&nbsp;
-    <a href="https://devdocs.io/c/"> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
-  </a>&nbsp;
-  <a href="https://www.python.org/doc/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
- <a href="https://docs.opencv.org/4.x/"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/></a>&nbsp;
- <a href="https://www.figma.com/best-practices/guide-to-developer-handoff/components-styles-and-documentation/?context=setLocalePref"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/></a>&nbsp;
- <a href="https://docs.developer.canva.com/apps/"> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/></a>&nbsp;
- <a href="https://jupyter-notebook.readthedocs.io/en/stable/"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/></a>&nbsp;
- <a href="https://in.mathworks.com/help/matlab/"> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/></a>&nbsp;
- <a href="https://www.r-project.org/other-docs.html"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/></a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
+<a href="https://documentation.js.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
+<a href="https://dev.mysql.com/doc/"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a>&nbsp;
+<a href="https://devdocs.io/c/"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/></a>&nbsp;
+<a href="https://www.python.org/doc/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
+<a href="https://docs.opencv.org/4.x/"> <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/></a>&nbsp;
+<a href="https://www.figma.com/best-practices/guide-to-developer-handoff/components-styles-and-documentation/?context=setLocalePref"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/></a>&nbsp;
+<a href="https://cloud.google.com/?hl=en"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="40" height="40"/></a>&nbsp;
+<a href="https://jupyter-notebook.readthedocs.io/en/stable/"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/></a>&nbsp;
+<a href="https://www.r-project.org/other-docs.html"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/></a>&nbsp;
 <a href="https://code.visualstudio.com/docs"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/></a>
+<a href="https://go.dev/"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/></a>
 </div>
 
 ### :fire: My Stats :
