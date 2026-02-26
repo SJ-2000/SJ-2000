@@ -24,10 +24,10 @@
 <p style="font-size: 40px";> <b>  🙋‍♂️  About me  </b> </p>
 
 - 👋 Hi, I’m Suryajith Sujith
-- 👀 I’m interested in Data Science, Web Development and anything related to tech stack!
-- 🌱 I’m currently learning Web Development from freecodecamp, something that excites me!
+- 👀 I love building stuff every now and then!
+- 🌱 I’m currently learning Java and Go, primarily focusing on the microservices aspect!
 - :books: I'm also learning Data Structures and Algorithms, something that is challenging.
-- 💞️ I’m looking to collaborate on Full Stack Development and Data Science/Machine Learning projects
+- 💞️ I love to collaborate and build stuff with using anything new that comes in the market
 - 📫 How to reach me at my personal mail: suryajithsujith@gmail.com
   </a> &nbsp; 
 
